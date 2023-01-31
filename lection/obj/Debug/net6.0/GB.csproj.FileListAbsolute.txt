@@ -1,0 +1,15 @@
+/Users/kabdrakg/Desktop/course/GB/bin/Debug/net6.0/GB
+/Users/kabdrakg/Desktop/course/GB/bin/Debug/net6.0/GB.deps.json
+/Users/kabdrakg/Desktop/course/GB/bin/Debug/net6.0/GB.runtimeconfig.json
+/Users/kabdrakg/Desktop/course/GB/bin/Debug/net6.0/GB.dll
+/Users/kabdrakg/Desktop/course/GB/bin/Debug/net6.0/GB.pdb
+/Users/kabdrakg/Desktop/course/GB/obj/Debug/net6.0/GB.csproj.AssemblyReference.cache
+/Users/kabdrakg/Desktop/course/GB/obj/Debug/net6.0/GB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kabdrakg/Desktop/course/GB/obj/Debug/net6.0/GB.AssemblyInfoInputs.cache
+/Users/kabdrakg/Desktop/course/GB/obj/Debug/net6.0/GB.AssemblyInfo.cs
+/Users/kabdrakg/Desktop/course/GB/obj/Debug/net6.0/GB.csproj.CoreCompileInputs.cache
+/Users/kabdrakg/Desktop/course/GB/obj/Debug/net6.0/GB.dll
+/Users/kabdrakg/Desktop/course/GB/obj/Debug/net6.0/refint/GB.dll
+/Users/kabdrakg/Desktop/course/GB/obj/Debug/net6.0/GB.pdb
+/Users/kabdrakg/Desktop/course/GB/obj/Debug/net6.0/GB.genruntimeconfig.cache
+/Users/kabdrakg/Desktop/course/GB/obj/Debug/net6.0/ref/GB.dll
